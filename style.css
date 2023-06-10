@@ -1,0 +1,297 @@
+.background{/* Footer */
+
+
+    position: absolute;
+    width: 1512px;
+    height: 266px;
+    left: calc(50% - 1512px/2);
+    top: calc(50% - 266px/2 + 1986px);
+    
+    /* Accent color 2 */
+    
+    background: #FFF5EA;}
+.footerleft{/* Footer left */
+
+
+    /* Auto layout */
+    
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+    
+    position: absolute;
+    width: 161px;
+    height: 176px;
+    left: 82px;
+    top: 45px;
+    }
+.Becomeaseller {/* Become a Seller */
+
+
+    width: 161px;
+    height: 32px;
+    
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 32px;
+    /* identical to box height, or 160% */
+    
+    letter-spacing: 0.02em;
+    text-decoration-line: underline;
+    
+    /* Secondary color */
+    
+    color: #1F1F1F;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;}
+.faq {/* FAQs */
+
+
+    width: 50px;
+    height: 32px;
+    
+    /* Paragraph 01 */
+    
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 32px;
+    /* identical to box height, or 160% */
+    
+    letter-spacing: 0.02em;
+    
+    /* Secondary color */
+    
+    color: #1F1F1F;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 1;
+    flex-grow: 0;}
+.policies {/* Policies */
+
+
+    width: 72px;
+    height: 32px;
+    
+    /* Paragraph 01 */
+    
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 32px;
+    /* identical to box height, or 160% */
+    
+    letter-spacing: 0.02em;
+    
+    /* Secondary color */
+    
+    color: #1F1F1F;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 2;
+    flex-grow: 0;}
+.terms {/* Terms of use */
+
+
+    width: 125px;
+    height: 32px;
+    
+    /* Paragraph 01 */
+    
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 32px;
+    /* identical to box height, or 160% */
+    
+    letter-spacing: 0.02em;
+    
+    /* Secondary color */
+    
+    color: #1F1F1F;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 3;
+    flex-grow: 0;}
+.footermiddle{/* Footer middle */
+
+
+    /* Auto layout */
+    
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 24px;
+    
+    position: absolute;
+    width: 229px;
+    height: 144px;
+    left: calc(50% - 229px/2 + 0.5px);
+    top: 61px;
+    }
+.made{/* Made in india */
+
+
+    position: absolute;
+    width: 130px;
+    height: 32px;
+    left: 0px;
+    top: 0px;
+    
+    /* Paragraph 01 */
+    
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 61px;
+    /* identical to box height, or 160% */
+    
+    letter-spacing: 0.02em;
+    
+    /* Secondary color */
+    
+    color: #1F1F1F;}
+.help{/* Need help? Contact us */
+
+
+    width: 229px;
+    height: 32px;
+    
+    /* Paragraph 01 */
+    
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 155px;
+    /* identical to box height, or 160% */
+    
+    letter-spacing: 0.02em;
+    
+    /* Secondary color */
+    
+    color: #1F1F1F;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 1;
+    flex-grow: 0;}
+.copyright{/* © Copyright Ethno */
+
+
+    width: 180px;
+    height: 32px;
+    
+    /* Paragraph 01 */
+    
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 140px;
+    /* identical to box height, or 160% */
+    
+    letter-spacing: 0.02em;
+    
+    /* Secondary color */
+    
+    color: #1F1F1F;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 2;
+    flex-grow: 0;}
+.footerright{/* Footer right */
+
+
+    /* Auto layout */
+    
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 0px;
+    gap: 6px;
+    
+    position: absolute;
+    width: 212px;
+    height: 144px;
+    left: 1222px;
+    top: 61px;
+    }
+.connect{/* Connect with us @ */
+
+
+    position: absolute;
+    width: 180px;
+    height: 32px;
+    left: 30px;
+    top: 0px;
+    
+    /* Paragraph 01 */
+    
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 61px;
+    /* identical to box height, or 160% */
+    
+    letter-spacing: 0.02em;
+    
+    /* Secondary color */
+    
+    color: #1F1F1F;}
+.careers {/* Careers */
+
+
+    width: 76px;
+    height: 32px;
+    
+    /* Paragraph 01 */
+    
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 240px;
+    /* identical to box height, or 160% */
+    
+    letter-spacing: 0.02em;
+    
+    /* Secondary color */
+    
+    color: #1F1F1F;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 1;
+    flex-grow: 0;}
