@@ -252,7 +252,7 @@
     width: 180px;
     height: 32px;
     left: 30px;
-    top: 0px;
+    top: -8px;
     
     /* Paragraph 01 */
     
@@ -268,11 +268,28 @@
     /* Secondary color */
     
     color: #1F1F1F;}
+.social-links {
+  display: flex;
+  gap: 5px;
+   padding: 75px;
+  width: 15px;
+  margin-right :100px;
+}
+
+.social-links img {
+  width: 50px;
+  height: 35px;
+  top: -28px;
+
+}
+
 .careers {/* Careers */
 
 
     width: 76px;
     height: 32px;
+  margin-right:50px;
+  margin-top: -180px;
     
     /* Paragraph 01 */
     
